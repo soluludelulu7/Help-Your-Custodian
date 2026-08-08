@@ -11,7 +11,7 @@ PCB 3D View:
 
 <img width="600" height="200" alt="Screenshot 2026-08-07 230001" src="https://github.com/user-attachments/assets/17ab16e5-ba98-4de0-a6ae-83d7b2f4bc84" />
 
-Bill of Materials:
+Bill of Materials (everything will be bought by me:
 
 | Part                | Qty | Source          | Link                        | Cost   |
 |---------------------|-----|-----------------|-----------------------------|--------|
@@ -20,3 +20,4 @@ Bill of Materials:
 | Cherry MX Switch    | 1   | I have it       | none                        | none   |
 | DHT11 Module        | 1   | Amazon          | https://a.co/d/0dia7duY     | $9.97  |
 | Header Connectors   | 1   | Amazon          | https://a.co/d/083PV2Bl     | $7.99  |
+| PCB                 | 5   | Amazon          | JLCPCB                      | $2.10  |
