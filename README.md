@@ -4,6 +4,8 @@ Description:
 - I have noticed that school trashcans often seem to stink a bit and it is probably due to wet waste not being taken out at the right time.
 - Also, our custodians are too busy to peep inside every single one.
 - Spending a moment of our life clicking a button to help our custodians out is the best way to help the community and make schools stink lesser.
+- Help Your Custodian assists them by displaying the moisture level of a trashcan on an LED Matrix when students click a button while throwing away their trash.
+- This helps avoid smelly trash can helping  keep schools clean and smell free.
 
 PCB 3D View:
 
