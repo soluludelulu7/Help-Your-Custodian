@@ -20,4 +20,4 @@ Bill of Materials (everything will be bought by me:
 | Cherry MX Switch    | 1   | I have it       | none                        | none   |
 | DHT11 Module        | 1   | Amazon          | https://a.co/d/0dia7duY     | $9.97  |
 | Header Connectors   | 1   | Amazon          | https://a.co/d/083PV2Bl     | $7.99  |
-| PCB                 | 5   | Amazon          | JLCPCB                      | $2.10  |
+| PCB                 | 5   | JLCPCB          | JLCPCB                      | $2.10  |
